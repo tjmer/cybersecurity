@@ -1,0 +1,5 @@
+Back in 2018 marriot had a data breach.  In there starwood database
+they found that someone was coping names, addresses, emails, and more.
+    They found after decrypting the information that the weakness was in
+the starwood guest reservation database.  So in response they started to
+phaseout starwood datasystems and enhance security on its network.
